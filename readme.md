@@ -1,6 +1,6 @@
-Hello
+Hello,
 
-In the assignment, we use this demo assignment for submission testing and autograding testing.
+We use this demo assignment for submission testing and autograding testing.
 
 1. You will have your own assignment repo automatically created by Github. Commit/push to this repo is equvalent to submission.
 
